@@ -6,11 +6,11 @@ I'm a professional JavaScript and React developer. I can develop any website usi
 GitHub, JavaScript REST Framework and React coding skills are vary strong. I have acquired and popularity as a front-end developer. I give my best services for my client or  
 company. Company satisfaction is my main goal.
 
-Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP
+Skills:  REACT / JS / HTML / CSS/ BOOTSTRAP/TAILWIND
 
 - 🔭 I’m currently working on Todo App 
 - 🌱 I’m currently learning React 
-- 💬 Ask me about HTML/CSS/BOOTSTRAP/JS 
+- 💬 Ask me about HTML/CSS/BOOTSTRAP/TAILWIND/JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/CodingSabbir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sabbir-rahman-87746a277/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codingsabbir.github.io/Boostrap_5project/)  
